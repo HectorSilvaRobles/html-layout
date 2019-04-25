@@ -1,0 +1,62 @@
+.shapes {
+    border: black 5px solid;
+    height: 200px;
+    flex-direction: row;
+}
+
+.purple-shape {
+    height: 130px;
+    width: 50px;
+    background-color: purple;
+    margin-left: 5px;
+    margin-top: 50px;
+    float: left;
+}
+
+.green-shape {
+    height: 180px;
+    width: 350px;
+    background-color: green;
+    margin: 10px 40px;
+    float: left;
+}
+
+.blue-circle {
+    background-color: lightblue;
+    height: 180px;
+    width: 180px;
+    border-radius: 100%;
+    margin-bottom: 100px;
+    float: left;
+}
+
+.dotted-container {
+    border: dotted 5px black;
+    height: 250px;
+    margin: 10px 5px;
+}
+
+.tan-box {
+    height: 150px;
+    background-color: tan;
+    width: 90%;
+    margin: 40px auto;
+    box-shadow: 5px 7px 5px black;
+}
+
+.hello-friends {
+    width: 500px;
+    height: 300px;
+    border: solid 1px grey;
+    margin: 30px auto;
+    box-shadow: 2px 2px 5px black;
+}
+
+.text {
+    color: navy;
+    text-align: center;
+    padding-top: 90px;
+    font-size: 35px;
+    font-weight: 600;
+    letter-spacing: 10px;
+}

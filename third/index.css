@@ -1,0 +1,46 @@
+body {
+    margin: 0%;
+}
+.grey-header {
+    background-color: lightgrey;
+    height: 100px;
+}
+
+.blue-box {
+    background-color: blue;
+    height: 80px;
+    width: 80px;
+    margin-left: 20px;
+    margin-top: 10px;
+    float: left;
+   
+}
+
+.text {
+    height: 250px;
+    text-align: center;
+    padding: 50px 40px 0;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.blue {
+    background-color: blue;
+    height: 120px;
+}
+
+.green {
+    background-color: green;
+    height: 120px;
+}
+
+.light-green {
+    background-color: lightgreen;
+    height: 120px;
+}
+
+.yellow {
+    background-color: yellow;
+    height: 120px;
+}
+
